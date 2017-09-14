@@ -1,0 +1,3 @@
+
+CLINK D:\users\maciej\gitHub\MarioScriptLanguage\test>..\MarioScrLangMB\Debug\MarioScrLangMB.exe  0<test_3.txt 
+zmienne wczytane

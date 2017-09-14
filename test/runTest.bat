@@ -1,0 +1,1 @@
+..\MarioScrLangMB\Debug\MarioScrLangMB.exe < %1%

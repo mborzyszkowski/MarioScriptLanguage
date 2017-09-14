@@ -1,0 +1,1 @@
+D:\users\maciej\gitHub\MarioScriptLanguage\MarioScrLangMB\Debug\MarioScrLangMB.exe < test_${1}.txt

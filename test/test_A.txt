@@ -1,0 +1,3 @@
+3
+a b c d 
+a=t=b=y=c=z=d=v=0
